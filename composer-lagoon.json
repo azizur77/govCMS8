@@ -32,7 +32,7 @@
         "drupal/core": "8.6.12",
         "drush/drush": "^9.0.0",
         "govcms/govcms": "*",
-        "govcms/govcms8_uikit_starter": "dev-feature/accessibility-combined",
+        "govcms/govcms8_uikit_starter": "dev-feature/accessibility-combined#5675b01cea97607049b8854c1277cf7eaee29517",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3",
         "webflo/drupal-core-strict": "8.6.12"

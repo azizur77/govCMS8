@@ -10,20 +10,6 @@
         "wik": "https://github.com/govCMS/govCMS8/wiki",
         "source": "https://github.com/govCMS/govCMS8/releases"
     },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packages.drupal.org/8"
-        },
-        {
-            "type": "composer",
-            "url": "https://asset-packagist.org"
-        },
-        {
-            "type": "vcs",
-            "url": "git@github.com:govcms/govcms8_uikit_starter.git"
-        }
-    ],
   "repositories": [
     {
       "type": "composer",
@@ -72,7 +58,7 @@
         "drupal/focal_point": "1.0-beta6",
         "drupal/google_analytics": "3.0",
         "drupal/govcms8_ui": "1.0.0-alpha1",
-        "govcms/govcms8_uikit_starter": "dev-feature/accessibility-combined#8c2d9787d0f8acb449e6a48f309a61acf7567a2f",
+        "govcms/govcms8_uikit_starter": "dev-feature/accessibility-combined#5675b01cea97607049b8854c1277cf7eaee29517",
         "drupal/graphql": "3.0.0-rc2",
         "drupal/honeypot": "1.29",
         "drupal/inline_entity_form": "1.0-rc1",
